@@ -1,0 +1,36 @@
+{
+	"name": "Carla Constantino",
+	"backImage": "./assets/banner3.jpg",
+	"image": "./assets/FotoCV.png",
+	"position": "Programadora Web Full Stack Jr.",
+	"ubication": "Buenos Aires, Argentina",
+	"about": "Soy una entusiasta de la tecnología que disfruta desarrollando páginas web, el proceso de aprendizaje y la resolución de problemas. Mis objetivos son convertirme en una programadora web full stack y formar parte de un equipo de trabajo que desarrolle productos geniales. Mi interés en el mundo IT empezó en 2022 cuando decidí aprender de manera autodidacta Desarrollo Web y Diseño UX a través de cursos online. Estos son mis primeros pasos en un camino que no tiene techo ni tampoco límites",
+
+
+	"experience": [{
+		"img": "./assets/clarinlogo.png",
+		"position": "Analista de Procesos y Calidad",
+		"comienzo": "Agosto 2022",
+		"fin": "Actualidad",
+		"title": "Analista de Back Office",
+		"start": "Julio 2018",
+		"end": "Agosto 2022"
+	}],
+
+	"education": [{
+		"imgGoogle": "./assets/logogoogle.png",
+		"titulo": "Diseño UX Jr.",
+		"comienzo": "Junio 2022",
+		"fin": "Actualidad",
+
+		"img": "./assets/logoargprog.png",
+		"title": "Programación Web Full Stack Jr.",
+		"start": "Febrero 2022",
+		"end": "Actualidad",
+
+		"imgUba": "./assets/ubalogo.png",
+		"career": "Licenciatura en Comunicación",
+		"status": "Tesina en proceso"
+	}]
+
+}

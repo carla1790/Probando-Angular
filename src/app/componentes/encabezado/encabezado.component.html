@@ -25,11 +25,13 @@
   
   <!--Banner--> 
   <div class="banner">
-  <img src="./assets/banner3.jpg" alt="banner" height="300" style="width:100%"> 
+  <img 
+  [src]="miPortfolio.backImage" alt="banner" height="300" style="width:100%"> 
       
   <!--Mi foto de perfil-->
   <div class="perfil">  
-    <img src="./assets/FotoCV.png" class="rounded-circle" title="Esta soy yo" alt="mi foto" width="200" height="200">
+    <img 
+  [src]="miPortfolio.image" class="rounded-circle" title="Esta soy yo" alt="mi foto" width="200" height="200">
         </div> 
   </div>
   
@@ -38,9 +40,9 @@
      <br>
    
   
-  <h1 style="color:black;"><b> Carla Constantino </b></h1>
-  <h3>Programadora Web Full Stack Jr.</h3>
-  <h5>Buenos Aires, Argentina</h5>
+  <h1 style="color:black;"><b> {{miPortfolio.name}} </b></h1>
+  <h3>{{miPortfolio.position}}</h3>
+  <h5>{{miPortfolio.ubication}}</h5>
   
   <!--Botones--> 
   
